@@ -1,5 +1,5 @@
 body {
-  background: #c7c7c7;
+  background: #f0b9b9;
 }
 
 .wrapper {
@@ -23,7 +23,7 @@ body {
 
 .wrapper .inputs .input-block label {
   display: block;
-}
+} 
 
 .wrapper .inputs .input-block:last-child {
   margin-left: 40px;
